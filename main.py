@@ -1,0 +1,2 @@
+p = ("whatsgggggvgvgvgvgvgv")
+print(p)
